@@ -1,7 +1,7 @@
 # Managing Authorization
 
 ## Objective
-In this project, I use Linux commands to set up authorization.
+In this project, I use Linux commands to manage authorization.
 
 Authorization involves granting access to specific resources within a system, which is crucial for security. Without proper authorization, any user could potentially access and alter files that belong to other users or the system itself, posing a significant security threat. Linux manages access to files and directories through permissions, determining who can access and modify them. During this lab, I delve into these permissions and adjust the ownership of a file and a directory to restrict access appropriately.
 As a security analyst, it's vital to set correct access permissions to safeguard sensitive data and ensure the system's overall security.
