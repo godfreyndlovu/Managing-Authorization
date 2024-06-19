@@ -16,7 +16,7 @@ This Qwiklabs project provisions resources and is hosted on Google Cloud.
 ### Tools and Environments Used
 
 - Linux / Bash shell
-'
+
 
 ## Scenario
 In this scenario, I needed to examine and manage the permissions for the files located in the `/home/researcher2/projects` directory, specifically for the `researcher2` user.
